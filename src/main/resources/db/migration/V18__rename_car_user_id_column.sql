@@ -1,0 +1,1 @@
+alter table car rename column user_id to person_id;
