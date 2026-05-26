@@ -1,0 +1,1 @@
+alter table person add column role text not null default USER ;
